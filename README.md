@@ -34,10 +34,7 @@ Email: u6520051@au.edu
 Phone: 0661078960
 
 
-![App Screenshot](https://github.com/saihein2480/car-analytics/screen-short/Screenshot 2024-08-25 081207.png)
-![App Screenshot](https://github.com/saihein2480/car-analytics/screen-short/Screenshot 2024-08-25 081231.png)
-![App Screenshot](https://github.com/saihein2480/car-analytics/screen-short/Screenshot 2024-08-25 081259.png)
-![App Screenshot](https://github.com/saihein2480/car-analytics/screen-short/Screenshot 2024-08-25 081315.png)
-![App Screenshot](https://github.com/saihein2480/car-analytics/screen-short/Screenshot 2024-08-25 081332.png)
+ ![Alt text](screen-short/Screenshot 2024-08-25 081207.png)
+
 
 
