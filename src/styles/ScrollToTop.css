@@ -1,0 +1,34 @@
+.scroll-to-top {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.scroll-button {
+    background-color: black;
+    border: none;
+    padding: 5px;
+    border-radius: 15%;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+    transition: opacity 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+}
+
+.scroll-button:hover {
+    background-color: #218838;
+}
+
+.scroll-button:focus {
+    outline: none;
+}
+
+.scroll-button:active {
+    background-color: #1e7e34;
+}
